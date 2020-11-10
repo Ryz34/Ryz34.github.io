@@ -1,0 +1,415 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align: center;
+    font-family: cursive;      
+}
+a{
+    font-size: 20px;
+    text-align: right;
+    color: black;
+    font-family: cursive;
+}
+.btn {
+    width: 3;
+    height: 1;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    margin-left: 1200px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    font-variant: unset;
+}
+div {
+        transition: all 2s ease; border: 4px solid white;
+}
+div:hover {
+    border: 5px solid wheat;
+}
+.Img16 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img16.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img16:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+.Img15 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img15.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img15:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img14 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img14.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img14:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img13 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 8px;
+    background-image:url(Img13.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img13:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img12 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img12.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img12:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img11 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img11.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img11:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img10 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img10.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img10:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img9 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 8px;
+    background-image:url(Img9.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img9:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img8 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img8.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img8:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img7 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img7.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img7:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img6 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img6.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img6:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+.Img5 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 8px;
+    background-image:url(Img5.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img5:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img4 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img4.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img4:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img3 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img3.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img3:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+
+.Img2 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 5px;
+    background-image:url(Img2.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img2:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}
+.Img1 {
+    transition: transform 2s, filter 1.5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(80%);
+    padding: 8px;
+    background-image:url(Img1.jpg);
+    transition: transform .2s;
+    width: 140px;
+    height: 180px;
+    background-size:cover;
+    float:left;
+    border-left-style:ridge;
+    border-right-style:ridge;
+    border-top:ridge;
+    border-bottom:ridge;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Img1:hover {
+    filter: brightness(100%);
+    transform: scale(1.3);
+}

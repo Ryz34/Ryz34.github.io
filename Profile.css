@@ -1,0 +1,33 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align: left;
+    font-family: cursive;
+    color: white;  
+}
+
+a{
+    font-size: 20px;
+    text-align: right;
+    color: black;
+    font-family: cursive;
+}
+.btn{
+    width: 3;
+    height: 1;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    margin-left: 1200px;
+h1 {
+    text-align: left;
+    font-family: impact;
+    color: white;
+}
+
+#Profile {
+        text-align: left;
+    }
+}
